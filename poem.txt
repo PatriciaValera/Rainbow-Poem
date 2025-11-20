@@ -11,7 +11,7 @@ These are the colors of the rainbow.
 
 The Unicorn
 
-Purple'
+Purple
 Pink
 Blue
 Green
